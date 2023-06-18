@@ -124,16 +124,6 @@ export default {
   --background: #404660;
   --background-hover: #3a4059;
   --background-left: #2b3044;
-  --folder: #f3e9cb;
-  --folder-inner: #beb393;
-  --paper: #ffffff;
-  --paper-lines: #bbc1e1;
-  --paper-behind: #e1e6f9;
-  --pencil-cap: #fff;
-  --pencil-top: #275efe;
-  --pencil-middle: #fff;
-  --pencil-bottom: #5c86ff;
-  --shadow: rgba(13, 15, 25, 0.2);
   border: none;
   outline: none;
   cursor: pointer;
@@ -144,7 +134,6 @@ export default {
   line-height: 19px;
   -webkit-appearance: none;
   -webkit-tap-highlight-color: transparent;
-  padding: 17px 29px 17px 69px;
   transition: background 0.3s;
   color: var(--color);
   background: var(--bg, var(--background));
